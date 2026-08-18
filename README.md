@@ -13,9 +13,9 @@
 | Member | GitHub Username |
 |--------|----------------|
 | Aguinaldo, Vaughn Dezler | melterefic |
-| Camacam, Rapha-el | — |
+| Camacam, Rapha-el | NoxxeRPHL|
 | Dela Cruz, Prince Kyle | FENRIR315 |
-| Ricio, Jan Carlo | — |
+| Ricio, Jan Carlo | voidzzzy |
 
 **Assigned Roles**
 
